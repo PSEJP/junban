@@ -1196,3 +1196,6 @@ body {
 .container {
   padding-left: 60px;
 }
+.panel-app-info #WP-checkout-box {
+  display: none;
+}
