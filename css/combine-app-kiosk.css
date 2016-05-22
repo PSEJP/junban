@@ -1038,6 +1038,7 @@ h6 {
   width: 18vh;
   border-radius: 230px;
   background-color: rgba(255, 255, 255, 0.2);
+  line-height: 18vh;
 }
 .progress-meter ol.progress-points .progress-point .point .wrapper {
   text-align: center;
